@@ -1,0 +1,10 @@
+{
+    "name": "_101_MerhabaNodejs",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
